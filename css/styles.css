@@ -30,7 +30,7 @@ p {
 }
 
 .header {
-  background: url("../img/head.png") center center no-repeat;
+  background: url("../Img/head.png") center center no-repeat;
   background-size: cover;
   height: 100vh;
 }
