@@ -101,6 +101,10 @@ p {
 }
 
 @media (max-width: 1000px) {
+  .header {
+     height: 60vh;
+  }
+  
   .nav_link {
     margin: 0 30px !important;
   }
