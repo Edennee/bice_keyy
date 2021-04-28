@@ -443,7 +443,7 @@ p {
 .under_img_2 {
   background: url("../Img/brands_rev1.png") center center no-repeat !important;
   display: block;
-  background-size: cover;
+  background-size: cover !important;
   padding-bottom: 38%;
 }
 
@@ -500,7 +500,7 @@ p {
 
 .under_img_3 {
   background: url("../Img/under_last.png") center center no-repeat !important;
-  background-size: cover;
+  background-size: cover !important;
 }
 
 @media (max-width: 1000px) {
