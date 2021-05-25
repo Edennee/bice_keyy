@@ -83,8 +83,6 @@ p {
 }
 .header a:hover {
   color: #292929;
-  border-bottom: 3px solid rgba(49, 49, 49, 0.5);
-  padding-bottom: 5px;
   opacity: 0.8;
   transition: 0.2s;
   transition-delay: 0.1s;
