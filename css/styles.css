@@ -718,7 +718,7 @@ p {
 
 .footer_social {
   flex: 0 1 50%;
-  text-align: center;
+  text-align: right;
   margin: auto;
 }
 .footer_social img {
