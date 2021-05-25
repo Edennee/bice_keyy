@@ -702,7 +702,7 @@ p {
 }
 
 .footer_text {
-  flex: 0 1 33.333%;
+  flex: 0 1 50%%;
 }
 .footer_text p {
   margin: 10px 0;
@@ -717,19 +717,12 @@ p {
 }
 
 .footer_social {
-  flex: 0 1 33.333%;
+  flex: 0 1 50%;
   text-align: center;
   margin: auto;
 }
 .footer_social img {
   margin: 0 7px;
-}
-
-.footer_logo {
-  flex: 0 1 33.333%;
-  text-align: right;
-  margin: auto 0;
-  position: relative;
 }
 .footer_logo p {
   font-size: 16px;
